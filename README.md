@@ -2,7 +2,7 @@
 
 # Description:
 
-The "Design and Fabrication of Pesticide Sprayer" project is a comprehensive endeavor aimed at addressing the challenges in modern agriculture through innovative engineering solutions. This project showcases the collaborative efforts and technical expertise of the team led by Vishal Kumar, focusing on the development of an advanced pesticide sprayer system.
+ "Design and Fabrication of Pesticide Sprayer" project is a comprehensive exploration into the development of an innovative and efficient solution for agricultural pest control. This project aims to address the challenges faced by farmers in applying pesticides effectively, minimizing wastage, and ensuring the safety of both crops and the environment.
 
 
 ![Screenshot (182)](https://github.com/vishalkumar32/Design-and-Febrication-of-Pesticide-Sprayer/assets/111268202/2d0509ee-422e-4e36-8fdf-dc2eefe10b20)
