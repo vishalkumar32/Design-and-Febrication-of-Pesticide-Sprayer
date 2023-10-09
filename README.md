@@ -25,12 +25,12 @@
 ![Screenshot (199)](https://github.com/vishalkumar32/Design-and-Febrication-of-Pesticide-Sprayer/assets/111268202/a664a7a3-9b23-40f4-9f0a-64516960577f)
 
 # Key Features:
-1 Precision and Efficiency
-2 Modular Design
-3 Smart Control
-4 Safety Measures
-5 Data Collection and Analysis
-6 Open-Source Philosophy
+1. Precision and Efficiency
+2. Modular Design
+3. Smart Control
+4. Safety Measures
+5. Data Collection and Analysis
+6. Open-Source Philosophy
 
 # Conclusion:
 
